@@ -1,0 +1,12 @@
+{
+    "style" : "encore",
+
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#FFFFFF",
+
+    "background" : "#0C0C0C",
+    "foreground" : "#CCCCCC",
+
+    "matcha" : "#008f00",
+    "chai" : "#c69c04",
+},
